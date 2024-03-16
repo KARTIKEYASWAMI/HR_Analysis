@@ -1,4 +1,4 @@
-<div align='center'> <h1> HR ANALYTICS </div>
+<div align='center'> <h1> HR ANALYSIS </div>
   
 <div align='center'> 
 
