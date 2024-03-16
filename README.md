@@ -3,7 +3,6 @@
 <div align='center'> 
 
   ![pngwing com](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/dad77aa5-0652-4510-9710-01db40f48569)
-  ![pngwing com (1)](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/88de5dfc-cd98-4c29-8455-d373e667b21e)
 
 
 </div>
