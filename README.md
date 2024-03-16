@@ -1,7 +1,8 @@
 <div align='center'> <h1> HR ANALYTICS </div>
   
 <div align='center'> 
-![pngwing com](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/dad77aa5-0652-4510-9710-01db40f48569)
+
+  ![pngwing com](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/dad77aa5-0652-4510-9710-01db40f48569)
 
 
 </div>
