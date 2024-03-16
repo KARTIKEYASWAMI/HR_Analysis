@@ -49,11 +49,12 @@ __<h2>Data Visualization</h2>__
 
 __1) Tableau Dashboard__
 
-![HR Analytics Tableau Dashboard](https://github.com/sharanya-27/HR-Analytics/assets/142989454/2182dc75-cc1b-45d9-a8b9-2ecee6ecc2cc)
+![1](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/d6c226d8-3a2c-41a7-aa34-a79b0cd842f3)
 
 __2) Power BI Dashboard__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/9e9c4335-58a2-4e64-8577-b12cc7d4e3c2)
+![2](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/fb7fc3c4-b46f-4bfd-9b5b-aa75259e6b77)
+
 
 __<h2>Dashboard Contents</h2>__
 
@@ -61,31 +62,35 @@ __KPI:__
 
 __1. Employee Count:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/954bc720-0271-4a88-b7c1-6913a07c0207)
+![3](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/6a79359b-64df-4bf2-8cfe-2fc54cbc60f0)
 
 This metric helps the department to assess workforce size and plan for future growth or downsizing effectively.
 
 __2. Attrition Count:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/faab3f3c-870a-4355-b4b2-92cdc0843185)
+![4](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/50009540-36f0-4697-9e7a-de9bef07a628)
+
 
 Gives a complete and reliable data on the number of employees who have left the organization.
 
 __3. Attrition Rate:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/79d996ab-5a2b-4d68-a811-b1b779937e38)
+![5](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/c414da15-1e37-4930-8764-f13d7e820b66)
+
 
 Gives a clear measure of attrition rate, such that the organization can assess the overall turnover level or compare it with industry benchmarks, improving the ability to gauge employee satisfaction and engagement.
 
 __4. Active Employees:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/e6454fba-72f6-438a-8262-fcbfd60bb220)
+![6](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/8df42d28-26fa-4416-914a-3b023fe0191b)
+
 
 This metric differentiate between active and inactive employees, thus aids in accurately assessing the current workforce's productivity and capacity.
 
 __5. Average Age:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/eca1bc5e-0878-4d0d-abcb-bf4419b3b307)
+![7](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/fb468bb8-cf31-4e2c-a22c-ca1a056bb1c7)
+
 
 Gives insight into the average age of employees, making it easy to evaluate workforce demographics, succession planning, and the organization's ability to attract and retain younger talent.
 
@@ -93,37 +98,42 @@ __Charts:__
 
 __1) Attrition by Gender:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/d106bfa1-aa05-43c9-9c9e-46140ddceb0c)
+![8](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/cc5ab43c-1850-47e3-ac58-9398c41c8ce9)
+
 
 Gives insight into the attrition patterns based on gender, making it difficult to identify any gender-related disparities and implement targeted retention strategies.
 
 __2) Department-wise Attrition:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/bb002f8e-7f4b-48a9-acb7-e509a528cdac)
+![9](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/a997cd00-770b-43c7-a927-3cfbd99b8227)
+
 
 This visualization showcases attrition rates across different departments. This boosts their ability to identify departments with higher attrition rates and address any underlying issues or concerns effectively.
 
 __3) Number of Employees by Age Group:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/47fd090c-fec4-45f1-9790-3540f2aebd14)
+![10](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/697b2f38-9199-4f9c-a118-970ede4823d1)
+
 
 The HR department requires visual representations to analyze the distribution of employees across various age groups. This helps in assessing workforce demographics, identifying any age-related gaps or imbalances, and implementing targeted HR policies or programs.
 
 __4) Job Satisfaction Ratings:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/184db909-26ec-4fd4-bcca-5dec5e66bf66)
+![11](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/98d77a10-2b62-4ce9-ae7d-e4f94f5a91bf)
+
 
 This visualization is used to represent job satisfaction ratings, improving their ability to measure employee engagement and overall job satisfaction levels effectively.
 
 __5) Education Field-wise Attrition:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/254a6cdd-7d53-4f95-be43-f57e489dd611)
+![12](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/6dfb2105-6ed1-4e29-bdcb-c13914efa645)
 
 This visual representations can be used to analyze attrition rates based on education fields. This helps identify specific educational backgrounds that may be associated with higher attrition, enabling the organization to tailor retention strategies accordingly.
 
 __6) Attrition Rate by Gender for Different Age Groups:__
 
-![image](https://github.com/sharanya-27/HR-Analytics/assets/142989454/c70ab8d7-d4bd-4564-bc83-56f1212e5e5b)
+![13](https://github.com/KARTIKEYASWAMI/HR_Analysis/assets/84394140/604d32f4-217b-4392-8f8a-65b3dfd60c22)
+
 
 This visualizations displays attrition rates based on gender and different age groups making it easy to identify any age and gender-related attrition trends, aiding the organization in implementing targeted retention strategies for specific employee segments.
 
@@ -132,7 +142,7 @@ __<h2>QA Testing (Quality Assurance)</h2>__
 
 2) __Data Validation -__ Checking accuracy and quality of data and to match the values in Tableau and Power BI report with the SQL queries.
 
-[SQL Queries for Analyzing/Testing Reports](https://github.com/sharanya-27/HR-Analytics/blob/main/SQL%20Analysis-%20Testing%20Tableau%20%26%20Power%20BI%20Reports)
+[SQL Queries for Analyzing/Testing Reports](https://github.com/KARTIKEYASWAMI/HR_Analysis/blob/main/SQL%20Analysis-%20Testing%20Tableau%20%26%20Power%20BI%20Reports)
 
 __<h1>CONCLUSION</h1>__
 
