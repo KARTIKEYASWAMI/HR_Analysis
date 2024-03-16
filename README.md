@@ -12,14 +12,14 @@ ____
 
 __Tools used : Tableau, Power BI, MS SQL Server__
 
-[Dataset used](https://github.com/sharanya-27/HR-Analytics/files/14546814/hrdata.csv)
+[Dataset used](https://github.com/KARTIKEYASWAMI/HR_Analysis/blob/main/files/HRdata%20(2).csv)
 
 __Tableau Dashboard__    
-[click here to view](https://github.com/sharanya-27/HR-Analytics/assets/142989454/7ee835be-7022-4a40-b5fa-83102761455d)   
-[click here to interact with the Dashboard](https://public.tableau.com/views/HRAnalyticsDashboard_17088846860500/HRAnalyticsDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) 
+[click here to view](https://github.com/KARTIKEYASWAMI/HR_Analysis/blob/main/HR%20Tableau%20Dashboard.pdf)   
+[click here to interact with the Dashboard](https://public.tableau.com/views/HRANALYSISDASHBOARD_17106039712990/HRAnalyticsDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
 __Power BI Dashboard__   
-[Power BI Dashboard](https://github.com/sharanya-27/HR-Analytics/files/14546830/HR_Analytics_BI_Dashboard.pdf)   
+[Power BI Dashboard](https://github.com/KARTIKEYASWAMI/HR_Analysis/blob/main/HR_Analytics_BI_Dashboard.pdf)   
 [click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBhYzY1ZGEtMmM0OS00YjkwLTkxYzYtZTBiNWEzYjMyZDE4IiwidCI6IjZmMTFlMWQzLTEyMTAtNDk5YS1iMjY0LTU2NzA0NTY4OGUyNyJ9)
 
 __<h1>BUSINESS PROBLEM</h1>__
